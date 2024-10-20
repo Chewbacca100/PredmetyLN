@@ -9,3 +9,5 @@ ______
 ##***История операционных систем***
 https://docs.google.com/document/d/16nOjGcZWZH_K11fZeKFDvLbeCns18hUd8iG7kp3xAcE/edit?usp=sharing
 _____
+##***тела вращения вокруг нас***
+https://docs.google.com/presentation/d/1GCkk_qGb3iIHDiKUxVDp4Ydl0sKI9dbhAwHvK2vmo0k/edit?usp=drivesdk
